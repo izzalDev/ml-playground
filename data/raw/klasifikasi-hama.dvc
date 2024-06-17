@@ -1,0 +1,6 @@
+outs:
+- md5: 9ce7eeab42d6b16a2cad089a8e2e7c4a.dir
+  size: 40310057
+  nfiles: 1402
+  hash: md5
+  path: klasifikasi-hama
